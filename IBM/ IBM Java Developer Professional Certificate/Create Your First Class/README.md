@@ -1,4 +1,4 @@
-##Reflection##
+## Reflection ##
 A class is a part of the recipie of the object
 For example our object is a cookie.
 its yummy, it has choclate, and its crisp on the edges
@@ -8,7 +8,7 @@ Now take a moment and relize what I did right thier
 at lines 3 to 5. Did you notice how I described the cookie.
 In way didn't I just classify the cookie with these distinctive parts.
 
-##THATS A CLASS## 
+## THATS A CLASS ## 
 It priotiezes defining attributes, properties, behviors, and methods for the object.
 In a way this acts as a bluprint because in code classes can usually be refered to many times.
 
