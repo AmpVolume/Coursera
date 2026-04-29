@@ -12,6 +12,7 @@ This is how we set one up but how do we call main well its somewhat wimple we si
 puplic class ##Name_Of_File## { pupblic static void main (String[] args){
 
   }
+
 }
 
 No matter what when typing a class you will always start with this method I showed you above from line 1722 Memorize this becuaseit will be useful for future projects This is the main method. The program starts running from this method. All Java programs require this method, it acts as the starting point for your program, no matter how complex it gets, your program will always start in this method from lines 1722
