@@ -5,6 +5,6 @@ then needed to redirect classes
 used javac to remind code that these classes still exist
 then I ran the classes through animal 
 
-mkdir -p classes\n
-javac -d classes Animal.java Dog.java Cat.java Cow.java AnimalFarm.java\n
+mkdir -p classes<br>
+javac -d classes Animal.java Dog.java Cat.java Cow.java AnimalFarm.java<br>
 java -cp classes AnimalFarm
