@@ -5,5 +5,5 @@ This is ment for documentation to prove coding logic and fundamentals
 This is a long on going project to project and prove my skills
 
 ## Why So Many READ.md? ##
-The reason why thier is so many is because I want to write more detailed documentation on them leater
+The reason why there is so many is because I want to write more detailed documentation on them later
 Think of it as a reflection response, I usually get alot of my work done ahead then I revisit my previoues work writing thoughful and well processed relfections on the code
