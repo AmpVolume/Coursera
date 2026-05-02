@@ -40,26 +40,29 @@ class Puppy extends Dog {
 
 public class Main {
     public static void main(String[] args) {
-
+       
+        //============ BASIC INHERITANCE ============//
         System.out.println("=== BASIC INHERITANCE ===");
         Dog myDog = new Dog();
         myDog.name = "Buddy";
         myDog.eat();
         myDog.bark();
-
+        
+        //============= MULTILEVEL INHERITANCE =============//
         System.out.println("\n=== MULTILEVEL INHERITANCE ===");
         Puppy myPuppy = new Puppy();
         myPuppy.name = "Max";
         myPuppy.eat();
         myPuppy.bark();
         myPuppy.weep();
-
+        //============= HIERARCHICAL INHERITANCE =============//
         System.out.println("\n=== HIERARCHICAL INHERITANCE ===");
         Cat myCat = new Cat();
         myCat.name = "Whiskers";
         myCat.eat();
         myCat.meow();
 
+        //============= POLYMORPHISM =============//
         System.out.println("\n=== POLYMORPHISM ===");
         Animal a1 = new Animal();
         Animal a2 = new Dog();
